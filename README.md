@@ -1,12 +1,12 @@
 # matlab-grapher
-Simple utility for plotting more lines into one figure with data legend. Created to facilitate the work with multiple plots figure in MATLAB.
+Simple utility for plotting more curves into one figure with data legend. Created to facilitate the work with multiple plots figure in MATLAB.
 
 # Instalation
 
 Grapher is optimized for **MATLAB R2015b** but I hope it will work with other versions of MATLAB.
 Using Grapher is quite simple. All you need is copy of MATLAB and clone grapher files into your MATLAB working path.
 
-# Useage
+# Usage
 
 ```
 x = 1:0.1:50;
