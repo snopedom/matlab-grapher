@@ -27,7 +27,7 @@ grapher(setup,dataSets);
 ```
 ### Example code output:
 
-![alt text](https://raw.githubusercontent.com/snopedom/matlab-grapher/master/example-figure.png 'Example code output')
+![alt text](https://raw.githubusercontent.com/snopedom/matlab-grapher/master/example.png 'Example code output')
 
 # Contributing
 
