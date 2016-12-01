@@ -9,7 +9,7 @@ Using Grapher is quite simple. All you need is copy of MATLAB and clone grapher 
 # Usage
 
 ```
-x = 1:0.1:50;
+x = 0:0.1:50;
 y1 = sin(x);
 y2 = sin(x+5);
 y3 = cos(x);
