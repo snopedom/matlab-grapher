@@ -1,4 +1,14 @@
 function [] = grapher(setup,dataSets)
+% GRAPHER Multiple plot figure with legend.
+%   Grapher function is used for simply rendering figure with multiple
+%   plots and dynamic generated legend.
+%
+%   GRAPHER(setup,dataSets)
+%
+%   setup - 'gsetup' object
+%   dataSets - cell collection of 'gdataset' objects
+%
+%   See also gsetup, gdataset.
 
 fontSize = 12;
 [r,c] = size(dataSets);
